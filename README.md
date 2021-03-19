@@ -4,8 +4,7 @@
 ## Software Developer
 
 ### Email: robsc801@gmail.com
-### Linkedin:
-[I'm an inline-style link](https://www.linkedin.com/in/robbo123) 
+### Linkedin: https://www.linkedin.com/in/robbo123
 ### CV with detailed work history and education. (Email me for a copy)
 ### Availability: Actively seeking work.
 
