@@ -24,11 +24,12 @@ During my studies at Enspiral Dev Academy we focused on the code and software fu
 
 ## List of some projects created whilst studying at Enspiral Dev Academy. ( This list is constantly changing as I continue to work on and deploy projects).
 
-* Foundations portfolio website [I'm an inline-style link](https://robbo-one.github.io/index.html)
+* My Foundations portfolio website, my learning journey through foundations at EDA [I'm an inline-style link](https://robbo-one.github.io/index.html)
 * Bootcamp final project, full stack. [I'm an inline-style link](https://swopzies.herokuapp.com/#/)
-* Lost and found pets website  [I'm an inline-style link](coming soon)
+* Lost and found pets website  (coming soon)
 * Whale sighting website [I'm an inline-style link](https://whale-sighting.herokuapp.com/#/)
-* Fake Exotic animal trade website which links to the WWF organisation to make a donation. [I'm an inline-style link](coming soon)
+* Fake Exotic animal trade website which links to the WWF organisation to make a donation. (coming soon)
+* Insult or compliment generator website [I'm an inline-style link](https://getfocked.herokuapp.com/)
 
 
 
