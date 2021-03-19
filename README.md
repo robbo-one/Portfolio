@@ -5,7 +5,7 @@
 
 ### Email: robsc801@gmail.com
 ### Linkedin:
-[I'm an inline-style link](https://linkedin.com/in/robbo123) 
+[I'm an inline-style link](https://www.linkedin.com/in/robbo123) 
 ### CV with detailed work history and education. (Email me for a copy)
 ### Availability: Actively seeking work.
 
