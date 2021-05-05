@@ -5,7 +5,7 @@
 
 ### Email: robsc801@gmail.com
 ### Linkedin: https://www.linkedin.com/in/robbo123
-### CV with detailed work history and education. (Email me for a copy)
+### CV with detailed work history and education. (message me to request a copy)
 ### Availability: Actively seeking work.
 
 ---
@@ -24,12 +24,13 @@ During my studies at Enspiral Dev Academy we focused on the code and software fu
 
 ## List of some projects created whilst studying at Enspiral Dev Academy. ( This list is constantly changing as I continue to work on and deploy projects).
 
-* My Foundations portfolio website, my learning journey through foundations at EDA https://robbo-one.github.io/index.html
-* Bootcamp final project, full stack. https://swopzies.herokuapp.com/#/
-* Lost and found pets website  (coming soon)
-* Whale sighting website https://whale-sighting.herokuapp.com/#/
-* Fake Exotic animal trade website which links to the WWF organisation to make a donation. (coming soon)
+* My Foundations portfolio website, including my learning journey through foundations at EDA https://robbo-one.github.io/index.html
+* Bootcamp final project, full stack. A community trading and networking website for local skills, services and products to trade. https://swopzies.herokuapp.com/#/
+* Lost and found pets website (coming soon)
+* Whale sighting website using APi https://whale-sighting.herokuapp.com/#/
+* Fake Exotic animal trade website which links to the WWF organisation to make a donation. https://exoticsales.herokuapp.com/
 * Insult or compliment generator website https://getfocked.herokuapp.com/
+
 
 
 
