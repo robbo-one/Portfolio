@@ -1,5 +1,9 @@
 {
   "root": true,
+  "api": {
+    "projectId": "suw5xzq3",
+    "dataset": "production"
+  },
   "project": {
     "name": "sanity-developer-portfolio"
   },
