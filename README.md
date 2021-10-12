@@ -25,18 +25,23 @@ During my studies at Enspiral Dev Academy we focused on the code and software fu
 ## List of some projects created whilst studying at Enspiral Dev Academy. ( This list is constantly changing as I continue to work on and deploy projects).
 
 * My Portfolio website project built using REACT, Sanity.io and TailwindCSS
+https://robbo.netlify.app/
  
 * Bootcamp final project, full stack. A FREE community trading and networking website for local people, skills, services and products to trade. https://swopzies.herokuapp.com/#/
 
 * My Foundations portfolio website, including my learning journey through the foundations part of the course at EDA prior to Bootcamp https://robbo-one.github.io/index.html
 
-* Lost and found pets website https://lostfoundpets.herokuapp.com/#/
+* Lost and found pets website 
+https://lostfoundpets.herokuapp.com/#/
 
-* Whale sighting website using APi https://whale-sighting.herokuapp.com/#/
+* Whale sighting website using APi 
+https://whale-sighting.herokuapp.com/#/
 
-* Fake Exotic animal shop highlighting the illegal animal trade, links to the WWF organisation to make a donation. https://exoticsales.herokuapp.com/
+* Fake Exotic animal shop highlighting the illegal animal trade, links to the WWF organisation to make a donation. 
+https://exoticsales.herokuapp.com/
 
-* Insult or compliment generator  https://getfocked.herokuapp.com/
+* Insult or compliment generator  
+https://getfocked.herokuapp.com/
 
 
 
